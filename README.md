@@ -1,5 +1,4 @@
-# Gabriel Bion
-# 👨‍💻 Sobre Mim
+# Olá, tudo bem? Me chamo Gabriel Bion! E aqui está umas curiosidades sobre mim.
 
 E ai! Meu nome é Gabriel, e sou um desenvolvedor de sistemas apaixonado por tecnologia e inovação. Com experiência em desenvolvimento web, frontend e backend, minha missão é criar aplicações eficientes, intuitivas e escaláveis.
 
@@ -12,8 +11,8 @@ E ai! Meu nome é Gabriel, e sou um desenvolvedor de sistemas apaixonado por tec
 
 ## 📌 O que eu faço?
 
-- Desenvolvimento de aplicações web modernas e responsivas
-- Construção de APIs robustas e eficientes
+- Desenvolvimento de aplicações
+- Construção de APIs
 - Integração entre frontend e backend
 
 ## 📫 Entre em Contato
