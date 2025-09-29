@@ -8,6 +8,7 @@ Com experiência em **desenvolvimento web, frontend e backend**, minha missão �
 ## Tecnologias e Ferramentas
 
 - **Frontend**: JavaScript, HTML, CSS, React
+- **Em Aprendizado**: Python e Next.js
 - **Backend**: Node.js
 - **Banco de Dados**: SQL (MySQL)  
 - **Outras Habilidades**: APIs REST, Controle de Versão (Git/GitHub), UX/UI  
