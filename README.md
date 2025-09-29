@@ -1,26 +1,40 @@
-# Olá, tudo bem? Me chamo Gabriel Bion! E aqui está umas curiosidades sobre mim.
+# 👋 Olá, tudo bem? Espero que sim!
 
-E ai! Meu nome é Gabriel, e sou um desenvolvedor de sistemas apaixonado por tecnologia e inovação. Com experiência em desenvolvimento web, frontend e backend, minha missão é criar aplicações eficientes, intuitivas e escaláveis.
+Me chamo Gabriel, e sou um **desenvolvedor de sistemas** apaixonado por tecnologia e inovação.  
+Com experiência em **desenvolvimento web, frontend e backend**, minha missão é criar aplicações eficientes, intuitivas e escaláveis. 🚀
+
+---
 
 ## 🚀 Tecnologias e Ferramentas
 
-- **Frontend**: HTML, CSS, React
-- **Backend**: Node.js
-- **Banco de Dados**: SQL (MySQL)
-- **Outras Habilidades**: APIs REST, Controle de Versão (Git/GitHub), UX/UI
+- **Frontend**: HTML, CSS, React  
+- **Backend**: Node.js  
+- **Banco de Dados**: SQL (MySQL)  
+- **Outras Habilidades**: APIs REST, Controle de Versão (Git/GitHub), UX/UI  
+
+---
 
 ## 📌 O que eu faço?
 
-- Desenvolvimento de aplicações
-- Construção de APIs
-- Integração entre frontend e backend
+- Desenvolvimento de aplicações  
+- Construção de APIs  
+- Integração entre frontend e backend  
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=bion23ouriquess&show_icons=true&theme=dracula)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bion23ouriquess&layout=compact&theme=dracula)  
+
+---
 
 ## 📫 Entre em Contato
 
-Se quiser trocar uma ideia sobre tecnologia, projetos ou apenas bater um papo, me encontre por aqui:
+- 📧 **Email**: gaby8.bion@gmail.com  
+- 💼 **LinkedIn**: [linkedin.com/in/bion-ouriquess](https://www.linkedin.com/in/bion-ouriquess)  
+- 🐙 **GitHub**: [bion23ouriquess](https://github.com/bion23ouriquess)  
 
-- 📧 Email: gaby8.bion@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/bion-ouriquess
-- 🐙 GitHub: bion23ouriquess
+---
 
-Vamos construir algo incrível juntos! 🚀
+✨ *Vamos construir algo incrível juntos!* 🚀
